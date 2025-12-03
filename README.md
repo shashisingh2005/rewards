@@ -28,7 +28,7 @@ A modern React + Vite App that calculates customer reward points from transactio
 - +2 points for every $1 over $100  
   Example:  
   $120 → (50 × 1) + (20 × 2) = **90 points**
-
+- A screenshot (Rewards.png) of the working app is attached.
 ## Run Locally
 
 npm install
